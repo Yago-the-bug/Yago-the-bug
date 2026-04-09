@@ -52,15 +52,6 @@ Hoje, faço o mesmo, mas construindo coisas na internet kkkk.
 
 ---
 
-## 📊 Estatísticas
-
-<p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Yago-the-bug&show_icons=true&theme=tokyonight"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yago-the-bug&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
 ## 🔥 Sequência de commits
 
 <p align="center">
