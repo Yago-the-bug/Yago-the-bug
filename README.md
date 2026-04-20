@@ -34,6 +34,7 @@ Hoje faço isso com código — criando projetos e evoluindo na prática.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,mongodb,git,python&theme=dark" />
+  <p>(Progressão de estudo em cada linguagem)</p>
 </p>
 
 ---
@@ -51,14 +52,6 @@ Hoje faço isso com código — criando projetos e evoluindo na prática.
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Yago-the-bug&theme=tokyonight&border_radius=10&background=0d1117&ring=00F7FF&fire=00F7FF"/>
-</p>
-
----
-
-## 🐍 Snake Animation
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Yago-the-bug/Yago-the-bug/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
