@@ -43,7 +43,6 @@ Hoje faço isso com código — criando projetos e evoluindo na prática.
 
 <p align="center">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Yago-the-bug&show_icons=true&theme=tokyonight&border_radius=10&bg_color=0d1117&title_color=00F7FF&icon_color=00F7FF"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yago-the-bug&layout=compact&theme=tokyonight&border_radius=10&bg_color=0d1117"/>
 </p>
 
 ---
